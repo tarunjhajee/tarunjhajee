@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tarun Kumar Jha
+# 👋 Hi, I’m Tarun Jha
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tarunkumarjha&label=Profile%20Views&color=0e75b6&style=flat)
 [![LinkedIn Badge](https://img.shields.io/badge/-Tarun%20Kumar%20Jha-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tarunkumarjha)
@@ -6,7 +6,7 @@
 
 ---
 
-## 💻 Full-Stack Developer | React & MERN Stack Specialist
+## 💻 Full-Stack Developer | NextJs & MERN Stack Specialist
 
 I build **scalable, high-performance, and user-focused web applications** using modern tools and best practices.  
 I write **clean, test-first code** and design solutions that combine performance, usability, and reliability.
